@@ -1,0 +1,48 @@
+[
+  {
+    "playerID": "457705",
+    "name": "Andrew McCutchen",
+    "team": "PIT",
+    "pos": "RF",
+    "props": {
+      "hits": {
+        "one": "-135",
+        "two": "+480"
+      },
+      "bases": {
+        "total": "1.5",
+        "over": "+280",
+        "under": "-121"
+      },
+      "runs": {
+        "total": "0.5",
+        "over": "+205",
+        "under": "-304"
+      }
+    },
+    "confidence": 82.4
+  },
+  {
+    "playerID": "672695",
+    "name": "Juan Soto",
+    "team": "SD",
+    "pos": "LF",
+    "props": {
+      "hits": {
+        "one": "-145",
+        "two": "+420"
+      },
+      "bases": {
+        "total": "1.5",
+        "over": "+225",
+        "under": "+100"
+      },
+      "runs": {
+        "total": "0.5",
+        "over": "+180",
+        "under": "-234"
+      }
+    },
+    "confidence": 89.1
+  }
+]
