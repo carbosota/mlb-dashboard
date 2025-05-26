@@ -1,0 +1,8467 @@
+[
+  {
+    "playerID": "672284",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-110"
+      },
+      "bases": {
+        "over": "+225",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "630105",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-120"
+      },
+      "bases": {
+        "over": "+270",
+        "under": "-120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "runs": {
+        "over": "+225",
+        "under": "-350",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "663604",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+550",
+        "one": "-120"
+      },
+      "bases": {
+        "over": "+255",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+390"
+      },
+      "runs": {
+        "over": "+215",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "606115",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+490",
+        "one": "-130"
+      },
+      "bases": {
+        "over": "+235",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+210",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+250",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "runs": {
+        "over": "+230",
+        "under": "-400",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "553869",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-135"
+      },
+      "bases": {
+        "under": "-125",
+        "over": "-110",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "under": "-350",
+        "over": "+250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+310"
+      }
+    }
+  },
+  {
+    "playerID": "493329",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+235",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "runs": {
+        "over": "+235",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "621566",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+165",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+130",
+        "under": "-185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "645277",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "701538",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+190",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "593428",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+175",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "595777",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "671739",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+165",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+550"
+      },
+      "runs": {
+        "over": "+185",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "592518",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "665487",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+460"
+      },
+      "sbs": {
+        "one": "+510"
+      },
+      "runs": {
+        "over": "+130",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "663586",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "-195",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+540"
+      },
+      "runs": {
+        "over": "+132",
+        "under": "-185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "542303",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "-195",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+160"
+      }
+    }
+  },
+  {
+    "playerID": "650333",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+175",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "650633",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "strikeouts": {
+        "under": "-139",
+        "over": "+102",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "-140",
+        "over": "+100",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "519242",
+    "gameID": "20250327_ATL@SD",
+    "date": "20250327",
+    "homeTeam": "SD",
+    "awayTeam": "ATL",
+    "propBets": {
+      "strikeouts": {
+        "under": "-110",
+        "over": "-124",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "-145",
+        "over": "+100",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "702616",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+440",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+580"
+      },
+      "runs": {
+        "over": "+145",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-170"
+      },
+      "bases": {
+        "under": "-105",
+        "over": "-135",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "under": "-235",
+        "over": "+170",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "641933",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+116",
+        "under": "-160",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+340"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+104",
+        "under": "-135",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+150"
+      }
+    }
+  },
+  {
+    "playerID": "543807",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "+145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "over": "+138",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "656775",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+300"
+      },
+      "runs": {
+        "over": "+148",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "602104",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-180"
+      },
+      "bases": {
+        "under": "+140",
+        "over": "-195",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "under": "-220",
+        "over": "+160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "681297",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "-175",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "sbs": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "-103",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "676391",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "-215",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "656811",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+130",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "695238",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-210"
+      },
+      "bases": {
+        "under": "+135",
+        "over": "-190",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "runs": {
+        "under": "-235",
+        "over": "+170",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "672386",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "668939",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+130",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+116",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "623993",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+115",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+330"
+      },
+      "runs": {
+        "over": "+118",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+140"
+      }
+    }
+  },
+  {
+    "playerID": "665926",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-240"
+      },
+      "bases": {
+        "under": "-210",
+        "over": "+145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+325"
+      },
+      "runs": {
+        "under": "-200",
+        "over": "+145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "663624",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+120",
+        "under": "-150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "runs": {
+        "over": "+135",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "676059",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+195",
+        "one": "-270"
+      },
+      "bases": {
+        "over": "+107",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "sbs": {
+        "one": "+550"
+      },
+      "runs": {
+        "over": "+123",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "666182",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-290"
+      },
+      "bases": {
+        "over": "+104",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+105",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "665489",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "hits": {
+        "two": "+170",
+        "one": "-310"
+      },
+      "bases": {
+        "over": "+100",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+104",
+        "under": "-140",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "621244",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "strikeouts": {
+        "under": "+102",
+        "over": "-139",
+        "total": "4.5"
+      },
+      "er": {
+        "under": "-135",
+        "over": "-105",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "621107",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "strikeouts": {
+        "under": "-157",
+        "over": "+114",
+        "total": "3.5"
+      },
+      "er": {
+        "under": "-165",
+        "over": "+120",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "664770",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "622761",
+    "gameID": "20250327_BAL@TOR",
+    "date": "20250327",
+    "homeTeam": "TOR",
+    "awayTeam": "BAL",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "669701",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+700",
+        "one": "+100"
+      },
+      "bases": {
+        "over": "+300",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "runs": {
+        "over": "+215",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+350"
+      }
+    }
+  },
+  {
+    "playerID": "543309",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+400"
+      },
+      "runs": {
+        "over": "+195",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "607680",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+550"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "677800",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "-105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "666969",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+140",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+500"
+      },
+      "sbs": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "671213",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "678882",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+340"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "669394",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+138",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "+138",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "673962",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "596115",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "sbs": {
+        "one": "+325"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "657136",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+175",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "694671",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+430"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+165",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "543760",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-250"
+      },
+      "bases": {
+        "over": "+128",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+940"
+      },
+      "runs": {
+        "over": "+108",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "608369",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-260"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "+114",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "608324",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-270"
+      },
+      "bases": {
+        "over": "+116",
+        "under": "-185",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+500"
+      },
+      "runs": {
+        "over": "+130",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+155"
+      }
+    }
+  },
+  {
+    "playerID": "680776",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+175",
+        "one": "-290"
+      },
+      "bases": {
+        "over": "-115",
+        "under": "-130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+265"
+      },
+      "runs": {
+        "over": "-114",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "646240",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "hits": {
+        "two": "+175",
+        "one": "-300"
+      },
+      "bases": {
+        "over": "-113",
+        "under": "-150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+340"
+      },
+      "runs": {
+        "over": "-113",
+        "under": "-135",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+140"
+      }
+    }
+  },
+  {
+    "playerID": "676979",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "strikeouts": {
+        "under": "+107",
+        "over": "+128",
+        "total": "7.5"
+      },
+      "er": {
+        "under": "-125",
+        "over": "-115",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "543135",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "strikeouts": {
+        "under": "-115",
+        "over": "-118",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "+125",
+        "over": "-185",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "641680",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "665750",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "694497",
+    "gameID": "20250327_BOS@TEX",
+    "date": "20250327",
+    "homeTeam": "TEX",
+    "awayTeam": "BOS",
+    "propBets": {
+      "bases": {
+        "total": "0.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "672695",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+430",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+220",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1300"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+163",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "665804",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "683737",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "runs": {
+        "over": "+145",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "691718",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+188",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+250"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "807713",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "553993",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "545341",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "-185",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "664983",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+360"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "682998",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "sbs": {
+        "one": "+350"
+      },
+      "runs": {
+        "over": "+114",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "664023",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+132",
+        "under": "-175",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "-113",
+        "under": "-135",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "672515",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "-195",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+135",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "647304",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "-195",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+143",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "621020",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+250",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+510"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "673548",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+128",
+        "under": "-170",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+390"
+      },
+      "runs": {
+        "over": "+123",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "663656",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+125",
+        "under": "-170",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+430"
+      },
+      "sbs": {
+        "one": "+460"
+      },
+      "runs": {
+        "over": "+104",
+        "under": "-130",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+160"
+      }
+    }
+  },
+  {
+    "playerID": "663538",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-250"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "-185",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+285"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "666971",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+190",
+        "one": "-290"
+      },
+      "bases": {
+        "over": "+120",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+150"
+      }
+    }
+  },
+  {
+    "playerID": "606466",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "hits": {
+        "two": "+165",
+        "one": "-330"
+      },
+      "bases": {
+        "over": "-114",
+        "under": "-120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+340"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "-122",
+        "under": "-105",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+135"
+      }
+    }
+  },
+  {
+    "playerID": "668678",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "strikeouts": {
+        "under": "+120",
+        "over": "+125",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "-155",
+        "over": "+110",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "657006",
+    "gameID": "20250327_CHC@ARI",
+    "date": "20250327",
+    "homeTeam": "ARI",
+    "awayTeam": "CHC",
+    "propBets": {
+      "strikeouts": {
+        "under": "+125",
+        "over": "+125",
+        "total": "4.5"
+      },
+      "er": {
+        "under": "-165",
+        "over": "+115",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "624415",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+550",
+        "one": "-125"
+      },
+      "bases": {
+        "under": "-105",
+        "over": "-135",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "runs": {
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "672356",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "-130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "over": "+205",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "666310",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+410",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+195",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "677587",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+240",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+670"
+      },
+      "runs": {
+        "over": "+180",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "664728",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+390"
+      },
+      "runs": {
+        "over": "+155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "669004",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+130",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "678877",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+160",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "700932",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "467793",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "657041",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+133",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+265"
+      },
+      "runs": {
+        "over": "+138",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "592669",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+143",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "608070",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-250"
+      },
+      "bases": {
+        "over": "+110",
+        "under": "-150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+500"
+      },
+      "sbs": {
+        "one": "+245"
+      },
+      "runs": {
+        "over": "+104",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+160"
+      }
+    }
+  },
+  {
+    "playerID": "521692",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+210",
+        "one": "-260"
+      },
+      "bases": {
+        "over": "+105",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+110",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+125"
+      }
+    }
+  },
+  {
+    "playerID": "663697",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+210",
+        "one": "-270"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-175",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+670"
+      },
+      "runs": {
+        "over": "-117",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "686681",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-270"
+      },
+      "bases": {
+        "over": "+125",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+128",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+150"
+      }
+    }
+  },
+  {
+    "playerID": "686469",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-270"
+      },
+      "bases": {
+        "over": "+120",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+120",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+130"
+      }
+    }
+  },
+  {
+    "playerID": "680757",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+175",
+        "one": "-310"
+      },
+      "bases": {
+        "over": "+125",
+        "under": "-185",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+580"
+      },
+      "runs": {
+        "over": "+114",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "677951",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "hits": {
+        "two": "+135",
+        "one": "-400"
+      },
+      "bases": {
+        "over": "-137",
+        "under": "-105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+450"
+      },
+      "sbs": {
+        "one": "+260"
+      },
+      "runs": {
+        "over": "-124",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+120"
+      }
+    }
+  },
+  {
+    "playerID": "676440",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "strikeouts": {
+        "total": "5.5"
+      },
+      "er": {
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "666142",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "strikeouts": {
+        "under": "-108",
+        "over": "-127",
+        "total": "5.5"
+      },
+      "er": {
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "594902",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "strikeouts": {
+        "under": "-175",
+        "over": "+135",
+        "total": "3.5"
+      }
+    }
+  },
+  {
+    "playerID": "672580",
+    "gameID": "20250327_CLE@KC",
+    "date": "20250327",
+    "homeTeam": "KC",
+    "awayTeam": "CLE",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "668670",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+750",
+        "one": "+105"
+      },
+      "bases": {
+        "over": "+270",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+255",
+        "under": "-350",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "668952",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+650",
+        "one": "-110"
+      },
+      "bases": {
+        "under": "-180",
+        "over": "+130",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+470"
+      },
+      "runs": {
+        "under": "-375",
+        "over": "+260",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+360"
+      }
+    }
+  },
+  {
+    "playerID": "571970",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-120"
+      },
+      "bases": {
+        "over": "+190",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+163",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "679529",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+470",
+        "one": "-130"
+      },
+      "bases": {
+        "over": "+190",
+        "under": "-105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "595879",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+235",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+490"
+      },
+      "runs": {
+        "over": "+230",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "681624",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+490",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+225",
+        "under": "-130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "500743",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+490",
+        "one": "-140"
+      },
+      "bases": {
+        "under": "+100",
+        "over": "-145",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "rbis": {
+        "one": "+290"
+      }
+    }
+  },
+  {
+    "playerID": "622534",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+390",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+215",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+195",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "682985",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "628451",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+230",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+290"
+      }
+    }
+  },
+  {
+    "playerID": "690993",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "-130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+230",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "650402",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "669257",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "606192",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "605141",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "669242",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+375"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "518692",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+148",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "660271",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+114",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+350"
+      },
+      "sbs": {
+        "one": "+260"
+      },
+      "runs": {
+        "over": "+100",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "605483",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "strikeouts": {
+        "under": "+108",
+        "over": "+120",
+        "total": "7.5"
+      },
+      "er": {
+        "under": "-190",
+        "over": "+130",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "669373",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "strikeouts": {
+        "under": "+125",
+        "over": "+120",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "-118",
+        "over": "-118",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "624424",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "669234",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "681481",
+    "gameID": "20250327_DET@LAD",
+    "date": "20250327",
+    "homeTeam": "LAD",
+    "awayTeam": "DET",
+    "propBets": {
+      "bases": {
+        "total": "0.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "572191",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+750",
+        "one": "+105"
+      },
+      "bases": {
+        "under": "-150",
+        "over": "+105",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "under": "-295",
+        "over": "+200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+320"
+      }
+    }
+  },
+  {
+    "playerID": "676070",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-115"
+      },
+      "bases": {
+        "over": "+275",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1300"
+      },
+      "sbs": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+235",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+340"
+      }
+    }
+  },
+  {
+    "playerID": "686676",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+490",
+        "one": "-135"
+      },
+      "bases": {
+        "under": "+100",
+        "over": "-140",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "under": "-300",
+        "over": "+210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "596103",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+440",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+215",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+185",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "643217",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+175",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "681351",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+145",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "666176",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "sbs": {
+        "one": "+430"
+      },
+      "runs": {
+        "over": "+143",
+        "under": "-185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "621028",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+230",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1500"
+      },
+      "sbs": {
+        "one": "+410"
+      },
+      "runs": {
+        "over": "+185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "678246",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+116",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "624585",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+420"
+      },
+      "runs": {
+        "over": "+108",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+135"
+      }
+    }
+  },
+  {
+    "playerID": "672820",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "-210",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+210",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "673357",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+540"
+      },
+      "sbs": {
+        "one": "+430"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "545361",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+300"
+      },
+      "sbs": {
+        "one": "+510"
+      },
+      "runs": {
+        "over": "-103",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+130"
+      }
+    }
+  },
+  {
+    "playerID": "694384",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+104",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "641313",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-220"
+      },
+      "bases": {
+        "under": "-210",
+        "over": "+150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+550"
+      },
+      "runs": {
+        "under": "-190",
+        "over": "+140",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "650859",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+260",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "-200",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+320"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "621493",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "sbs": {
+        "one": "+940"
+      },
+      "runs": {
+        "over": "-108",
+        "under": "-135",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "683734",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+148",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "579328",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "strikeouts": {
+        "under": "-136",
+        "over": "+100",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "+120",
+        "over": "-175",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "680732",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "strikeouts": {
+        "under": "-114",
+        "over": "-120",
+        "total": "4.5"
+      },
+      "er": {
+        "under": "+110",
+        "over": "-155",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "642136",
+    "gameID": "20250327_LAA@CHW",
+    "date": "20250327",
+    "homeTeam": "CHW",
+    "awayTeam": "LAA",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "669003",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+650",
+        "one": "-105"
+      },
+      "bases": {
+        "over": "+300",
+        "under": "-150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+270"
+      },
+      "runs": {
+        "over": "+220",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "681962",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-110"
+      },
+      "bases": {
+        "over": "+280",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1400"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+200",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "700250",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-115"
+      },
+      "bases": {
+        "under": "-140",
+        "over": "+100",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "under": "-300",
+        "over": "+210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "656555",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-120"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+400"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "665828",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+550",
+        "one": "-125"
+      },
+      "bases": {
+        "over": "+240",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "sbs": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "+180",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "687401",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+220",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+210",
+        "under": "-285",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "686217",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+430",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+215",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1500"
+      },
+      "sbs": {
+        "one": "+305"
+      },
+      "runs": {
+        "over": "+200",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "668930",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+225",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+2000"
+      },
+      "sbs": {
+        "one": "+285"
+      },
+      "runs": {
+        "over": "+175",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "683011",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+420",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+320"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "665862",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+410",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "sbs": {
+        "one": "+185"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "691176",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+250"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "669224",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+370",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+100",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "641355",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+530"
+      },
+      "runs": {
+        "over": "+138",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "661388",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "502671",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+160",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+130",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "592450",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-185"
+      },
+      "bases": {
+        "over": "-103",
+        "under": "-140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+210"
+      },
+      "runs": {
+        "over": "-141",
+        "under": "+100",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+125"
+      }
+    }
+  },
+  {
+    "playerID": "592885",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+250"
+      },
+      "runs": {
+        "over": "+117",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "694192",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "hits": {
+        "two": "+250",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+265"
+      },
+      "runs": {
+        "over": "+100",
+        "under": "-140",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "642547",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "strikeouts": {
+        "under": "+123",
+        "over": "+118",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "-190",
+        "over": "+130",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "607074",
+    "gameID": "20250327_MIL@NYY",
+    "date": "20250327",
+    "homeTeam": "NYY",
+    "awayTeam": "MIL",
+    "propBets": {
+      "strikeouts": {
+        "under": "+102",
+        "over": "+135",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "-115",
+        "over": "-120",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "670242",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-130"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+460"
+      },
+      "sbs": {
+        "one": "+710"
+      },
+      "runs": {
+        "over": "+108",
+        "under": "-140",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "691026",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+430",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+240",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+210",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "691023",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+440",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+215",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "runs": {
+        "over": "+200",
+        "under": "-285",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "650489",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+370",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+460"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "687363",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+410",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+225",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "sbs": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+200",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "680777",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "664056",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "under": "-125",
+        "over": "-115",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+245"
+      },
+      "runs": {
+        "under": "-285",
+        "over": "+200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "575929",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "663616",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+148",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "669304",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+160",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "621439",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+128",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+420"
+      },
+      "sbs": {
+        "one": "+530"
+      },
+      "runs": {
+        "over": "+123",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "671056",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+188",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "571448",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "664034",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+165",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "621043",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+140",
+        "under": "-200",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "676475",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "-205",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "663457",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+138",
+        "under": "-200",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+102",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "680977",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "hits": {
+        "two": "+210",
+        "one": "-260"
+      },
+      "bases": {
+        "over": "+145",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "543243",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "strikeouts": {
+        "under": "-104",
+        "over": "-132",
+        "total": "5.5"
+      },
+      "er": {
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "641154",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "strikeouts": {
+        "under": "+135",
+        "over": "+110",
+        "total": "5.5"
+      },
+      "er": {
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "666397",
+    "gameID": "20250327_MIN@STL",
+    "date": "20250327",
+    "homeTeam": "STL",
+    "awayTeam": "MIN",
+    "propBets": {
+      "bases": {
+        "total": "0.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "676694",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-135"
+      },
+      "bases": {
+        "under": "-110",
+        "over": "-130",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+750"
+      },
+      "runs": {
+        "under": "-275",
+        "over": "+190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "620443",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+420",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+235",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+188",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "670623",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+410",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+117",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "682668",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+460"
+      },
+      "runs": {
+        "over": "+180",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "621438",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-165"
+      },
+      "bases": {
+        "under": "+140",
+        "over": "-200",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+630"
+      },
+      "runs": {
+        "under": "-200",
+        "over": "+145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "572233",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+160",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+500"
+      },
+      "runs": {
+        "over": "+118",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "607043",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "665742",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "-104",
+        "under": "-140",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "624413",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+148",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+125",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "516782",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+490"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+320",
+        "one": "-190"
+      },
+      "bases": {
+        "under": "+105",
+        "over": "-150",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "665161",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+500"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "514888",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+105",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "668901",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+250",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+140",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+370"
+      },
+      "runs": {
+        "over": "+148",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+145"
+      }
+    }
+  },
+  {
+    "playerID": "596019",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+480"
+      },
+      "sbs": {
+        "one": "+375"
+      },
+      "runs": {
+        "over": "-108",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "670541",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+112",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+370"
+      },
+      "runs": {
+        "over": "-105",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+140"
+      }
+    }
+  },
+  {
+    "playerID": "673237",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+143",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "664285",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "strikeouts": {
+        "under": "-108",
+        "over": "-127",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "+120",
+        "over": "-175",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "605280",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "strikeouts": {
+        "under": "-139",
+        "over": "+102",
+        "total": "4.5"
+      }
+    }
+  },
+  {
+    "playerID": "643289",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "676801",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "642350",
+    "gameID": "20250327_NYM@HOU",
+    "date": "20250327",
+    "homeTeam": "HOU",
+    "awayTeam": "NYM",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "641487",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+650",
+        "one": "-110"
+      },
+      "bases": {
+        "over": "+265",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+180",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "691016",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+600",
+        "one": "-110"
+      },
+      "bases": {
+        "over": "+205",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+215",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+320"
+      }
+    }
+  },
+  {
+    "playerID": "669208",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+550",
+        "one": "-130"
+      },
+      "bases": {
+        "under": "-115",
+        "over": "-120",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+265"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "669127",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+520"
+      },
+      "runs": {
+        "over": "+170",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "670042",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+140",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "sbs": {
+        "one": "+530"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "805779",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "668709",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "runs": {
+        "over": "+170",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "593871",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+480"
+      },
+      "sbs": {
+        "one": "+880"
+      },
+      "runs": {
+        "over": "+155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "642133",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-145"
+      },
+      "bases": {
+        "under": "-105",
+        "over": "-135",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "668227",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+420",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+375"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "671732",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+350"
+      },
+      "runs": {
+        "over": "+160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "667670",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+138",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+440"
+      },
+      "sbs": {
+        "one": "+580"
+      },
+      "runs": {
+        "over": "+133",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "570482",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "663728",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+112",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+285"
+      },
+      "rbis": {
+        "one": "+140"
+      }
+    }
+  },
+  {
+    "playerID": "609280",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+195",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "645302",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+250",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "-200",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+210"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "677594",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-160",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+470"
+      },
+      "sbs": {
+        "one": "+340"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "669302",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "strikeouts": {
+        "under": "+114",
+        "over": "+128",
+        "total": "7.5"
+      }
+    }
+  },
+  {
+    "playerID": "622663",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "strikeouts": {
+        "under": "+107",
+        "over": "+140",
+        "total": "5.5"
+      }
+    }
+  },
+  {
+    "playerID": "641598",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "664238",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "",
+    "gameID": "20250327_OAK@SEA",
+    "date": "20250327",
+    "homeTeam": "SEA",
+    "awayTeam": "OAK",
+    "propBets": {
+      "bases": {
+        "under": "-125",
+        "over": "-110",
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "657557",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-130"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "-140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+245",
+        "under": "-375",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+280"
+      }
+    }
+  },
+  {
+    "playerID": "686611",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+430",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+190",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+360"
+      },
+      "runs": {
+        "over": "+163",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "696285",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+460",
+        "one": "-145"
+      },
+      "bases": {
+        "over": "+275",
+        "under": "-115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+305"
+      },
+      "runs": {
+        "over": "+250",
+        "under": "-375",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "669016",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+420",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+225",
+        "under": "-120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+830"
+      },
+      "sbs": {
+        "one": "+450"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "660688",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-155"
+      },
+      "bases": {
+        "over": "+215",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+220",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "656941",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+380",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+390"
+      },
+      "runs": {
+        "over": "+118",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+165"
+      }
+    }
+  },
+  {
+    "playerID": "695578",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+370",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+375"
+      },
+      "runs": {
+        "over": "+180",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+240"
+      }
+    }
+  },
+  {
+    "playerID": "605137",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+188",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "663993",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "-110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "runs": {
+        "over": "+215",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "681082",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+330"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "592663",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "-200",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "592206",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+160",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "682928",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+115",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+265"
+      },
+      "runs": {
+        "over": "+135",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "671277",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+415"
+      },
+      "runs": {
+        "over": "+190",
+        "under": "-275",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "596146",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-200",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+190"
+      }
+    }
+  },
+  {
+    "playerID": "547180",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-230"
+      },
+      "bases": {
+        "over": "+128",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+480"
+      },
+      "runs": {
+        "over": "+104",
+        "under": "-125",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "664761",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+123",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+940"
+      },
+      "runs": {
+        "over": "+135",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "607208",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "hits": {
+        "two": "+200",
+        "one": "-260"
+      },
+      "bases": {
+        "over": "+110",
+        "under": "-145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+500"
+      },
+      "sbs": {
+        "one": "+320"
+      },
+      "runs": {
+        "over": "-106",
+        "under": "-120",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "554430",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "strikeouts": {
+        "under": "+108",
+        "over": "+138",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "-125",
+        "over": "-110",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "669022",
+    "gameID": "20250327_PHI@WAS",
+    "date": "20250327",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "propBets": {
+      "strikeouts": {
+        "under": "-124",
+        "over": "-110",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "-165",
+        "over": "+120",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "663743",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-125"
+      },
+      "bases": {
+        "over": "+285",
+        "under": "-125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "runs": {
+        "over": "+270",
+        "under": "-450",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+300"
+      }
+    }
+  },
+  {
+    "playerID": "670223",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+500",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "-155",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+210",
+        "under": "-400",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "688363",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+480",
+        "one": "-135"
+      },
+      "bases": {
+        "under": "-165",
+        "over": "+115",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+670"
+      },
+      "runs": {
+        "under": "-500",
+        "over": "+300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "669065",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+470",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "-140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "runs": {
+        "over": "+205",
+        "under": "-350",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+290"
+      }
+    }
+  },
+  {
+    "playerID": "656537",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+240",
+        "under": "-135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+410"
+      },
+      "runs": {
+        "over": "+230",
+        "under": "-450",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "665052",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+400",
+        "one": "-150"
+      },
+      "bases": {
+        "over": "+260",
+        "under": "-165",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+225",
+        "under": "-450",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+270"
+      }
+    }
+  },
+  {
+    "playerID": "681146",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+110",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+195",
+        "under": "-325",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "457705",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+180",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+980"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-190",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "682848",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-175"
+      },
+      "bases": {
+        "under": "+140",
+        "over": "-200",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+880"
+      },
+      "runs": {
+        "under": "-220",
+        "over": "+160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "665833",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-180"
+      },
+      "bases": {
+        "over": "+150",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+310"
+      },
+      "runs": {
+        "over": "+150",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "663698",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+150",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "runs": {
+        "over": "+163",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "663647",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+530"
+      },
+      "runs": {
+        "over": "+185",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "643396",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1100"
+      },
+      "sbs": {
+        "one": "+530"
+      },
+      "runs": {
+        "over": "+200",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "672640",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+195",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+360"
+      },
+      "runs": {
+        "over": "+205",
+        "under": "-300",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "502054",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1000"
+      },
+      "sbs": {
+        "one": "+470"
+      },
+      "runs": {
+        "over": "+138",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "668804",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+240",
+        "one": "-220"
+      },
+      "bases": {
+        "over": "+140",
+        "under": "-185",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+560"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "693304",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+230",
+        "one": "-240"
+      },
+      "bases": {
+        "over": "+170",
+        "under": "-205",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+170",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "669364",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "hits": {
+        "two": "+220",
+        "one": "-250"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+160",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1060"
+      },
+      "sbs": {
+        "one": "+165"
+      },
+      "runs": {
+        "over": "+155",
+        "under": "-225",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "694973",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "strikeouts": {
+        "under": "-132",
+        "over": "-104",
+        "total": "7.5"
+      },
+      "er": {
+        "under": "+130",
+        "over": "-185",
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "645261",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "strikeouts": {
+        "under": "+123",
+        "over": "+125",
+        "total": "5.5"
+      }
+    }
+  },
+  {
+    "playerID": "667472",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "669707",
+    "gameID": "20250327_PIT@MIA",
+    "date": "20250327",
+    "homeTeam": "MIA",
+    "awayTeam": "PIT",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "573262",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+750",
+        "one": "+110"
+      },
+      "bases": {
+        "under": "-130",
+        "over": "-110",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+540"
+      },
+      "sbs": {
+        "one": "+900"
+      },
+      "runs": {
+        "under": "-235",
+        "over": "+170",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "666149",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+550",
+        "one": "-120"
+      },
+      "bases": {
+        "under": "-135",
+        "over": "-105",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "sbs": {
+        "one": "+300"
+      },
+      "runs": {
+        "under": "-250",
+        "over": "+185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "664774",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+440",
+        "one": "-135"
+      },
+      "bases": {
+        "over": "+185",
+        "under": "+100",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+1020"
+      },
+      "runs": {
+        "over": "+108",
+        "under": "-165",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+230"
+      }
+    }
+  },
+  {
+    "playerID": "527038",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+450",
+        "one": "-140"
+      },
+      "bases": {
+        "over": "+235",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "runs": {
+        "over": "+185",
+        "under": "-295",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "624431",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+410",
+        "one": "-160"
+      },
+      "bases": {
+        "over": "+245",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+1200"
+      },
+      "runs": {
+        "over": "+220",
+        "under": "-375",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+260"
+      }
+    }
+  },
+  {
+    "playerID": "672275",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+360",
+        "one": "-165"
+      },
+      "bases": {
+        "over": "+200",
+        "under": "+105",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+800"
+      },
+      "runs": {
+        "over": "+185",
+        "under": "-250",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "656305",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+135",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+360"
+      },
+      "sbs": {
+        "one": "+550"
+      },
+      "runs": {
+        "over": "+108",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+150"
+      }
+    }
+  },
+  {
+    "playerID": "671218",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+350",
+        "one": "-170"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+600"
+      },
+      "sbs": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+140",
+        "under": "-210",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+175"
+      }
+    }
+  },
+  {
+    "playerID": "642715",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+310",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+130",
+        "under": "-180",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+420"
+      },
+      "sbs": {
+        "one": "+410"
+      },
+      "runs": {
+        "over": "+102",
+        "under": "-145",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "600869",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+165",
+        "under": "+125",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+940"
+      },
+      "runs": {
+        "over": "+155",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+180"
+      }
+    }
+  },
+  {
+    "playerID": "641584",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+340",
+        "one": "-175"
+      },
+      "bases": {
+        "over": "+210",
+        "under": "+120",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+340"
+      },
+      "runs": {
+        "over": "+180",
+        "under": "-235",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+220"
+      }
+    }
+  },
+  {
+    "playerID": "668715",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+330",
+        "one": "-185"
+      },
+      "bases": {
+        "under": "+135",
+        "over": "-190",
+        "total": "0.5"
+      },
+      "homeruns": {
+        "one": "+700"
+      },
+      "sbs": {
+        "one": "+410"
+      },
+      "runs": {
+        "under": "-210",
+        "over": "+150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+210"
+      }
+    }
+  },
+  {
+    "playerID": "687952",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+300",
+        "one": "-190"
+      },
+      "bases": {
+        "over": "+155",
+        "under": "+145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+630"
+      },
+      "runs": {
+        "over": "+165",
+        "under": "-220",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "682829",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+138",
+        "under": "+135",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+560"
+      },
+      "sbs": {
+        "one": "+142"
+      },
+      "runs": {
+        "over": "+120",
+        "under": "-160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+185"
+      }
+    }
+  },
+  {
+    "playerID": "670770",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+270",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+160",
+        "under": "+140",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+900"
+      },
+      "sbs": {
+        "one": "+360"
+      },
+      "runs": {
+        "over": "+110",
+        "under": "-150",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+250"
+      }
+    }
+  },
+  {
+    "playerID": "808982",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-195"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "-190",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+750"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+143",
+        "under": "-185",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+195"
+      }
+    }
+  },
+  {
+    "playerID": "666158",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+290",
+        "one": "-200"
+      },
+      "bases": {
+        "over": "+175",
+        "under": "+130",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+870"
+      },
+      "sbs": {
+        "one": "+790"
+      },
+      "runs": {
+        "over": "+160",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+170"
+      }
+    }
+  },
+  {
+    "playerID": "680574",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "hits": {
+        "two": "+280",
+        "one": "-210"
+      },
+      "bases": {
+        "over": "+163",
+        "under": "+145",
+        "total": "1.5"
+      },
+      "homeruns": {
+        "one": "+680"
+      },
+      "sbs": {
+        "one": "+350"
+      },
+      "runs": {
+        "over": "+128",
+        "under": "-175",
+        "total": "0.5"
+      },
+      "rbis": {
+        "one": "+200"
+      }
+    }
+  },
+  {
+    "playerID": "668881",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "strikeouts": {
+        "under": "-124",
+        "over": "-110",
+        "total": "6.5"
+      },
+      "er": {
+        "under": "+110",
+        "over": "-155",
+        "total": "1.5"
+      }
+    }
+  },
+  {
+    "playerID": "657277",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "strikeouts": {
+        "under": "-139",
+        "over": "+102",
+        "total": "5.5"
+      },
+      "er": {
+        "under": "-160",
+        "over": "+115",
+        "total": "2.5"
+      }
+    }
+  },
+  {
+    "playerID": "669720",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "bases": {
+        "total": "1.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  },
+  {
+    "playerID": "669289",
+    "gameID": "20250327_SF@CIN",
+    "date": "20250327",
+    "homeTeam": "CIN",
+    "awayTeam": "SF",
+    "propBets": {
+      "bases": {
+        "total": "0.5"
+      },
+      "runs": {
+        "total": "0.5"
+      }
+    }
+  }
+]

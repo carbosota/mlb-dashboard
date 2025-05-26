@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MLB Prop Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f5f5f5; }
+        h1 { text-align: center; }
+        .prop-card {
+            background: #fff;
+            margin: 15px auto;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 700px;
+        }
+        .rank-high { background-color: #d4edda; }
+        .rank-medium { background-color: #fff3cd; }
+        .rank-low { background-color: #f8d7da; }
+        .meta { font-size: 0.9em; color: #555; }
+        .confidence { font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>MLB Prop Dashboard (Auto-Ranked)</h1>
+    <div id="dashboard"></div>
+
+    <script>
+        fetch("ranked_props.json")
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById("dashboard");
+
+                data.forEach(player => {
+                    const rankClass = player.confidence >= 0.85 ? 'rank-high'
+                                     : player.confidence >= 0.70 ? 'rank-medium'
+                                     : 'rank-low';
+
+                    const card = document.createElement("div");
+                    card.className = `prop-card ${rankClass}`;
+                    card.innerHTML = `
+                        <h2>${player.name} (${player.team}) – ${player.position}</h2>
+                        <p class="meta">Player ID: ${player.playerID}</p>
+                        <p><strong>Hits:</strong> 1+ ${player.propBets?.hits?.one || 'N/A'}, 2+ ${player.propBets?.hits?.two || 'N/A'}</p>
+                        <p><strong>Total Bases:</strong> ${player.propBets?.bases?.total || '?'} – Over ${player.propBets?.bases?.over || 'N/A'}, Under ${player.propBets?.bases?.under || 'N/A'}</p>
+                        <p><strong>Runs:</strong> ${player.propBets?.runs?.total || '?'} – Over ${player.propBets?.runs?.over || 'N/A'}, Under ${player.propBets?.runs?.under || 'N/A'}</p>
+                        <p><strong>Confidence Score:</strong> <span class="confidence">${(player.confidence * 100).toFixed(1)}%</span></p>
+                    `;
+                    container.appendChild(card);
+                });
+            })
+            .catch(error => {
+                document.getElementById("dashboard").innerText = "Failed to load props.";
+                console.error("Error loading JSON:", error);
+            });
+    </script>
+</body>
+</html>
