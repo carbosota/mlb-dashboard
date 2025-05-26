@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MLB Prop Dashboard (Auto-Ranked)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: #f2f2f2;
+        }
+        h1 {
+            text-align: center;
+        }
+        .prop {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px auto;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .top-prop {
+            border: 2px solid #4CAF50;
+            background-color: #e8f5e9;
+        }
+        .player-name {
+            font-weight: bold;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>MLB Prop Dashboard (Auto-Ranked)</h1>
+    <div id="dashboard"></div>
+
+    <script>
+        fetch('ranked_props.json')
+            .then(response => response.json())
+            .then(data => {
+                // Sort by confidence descending
+                data.sort((a, b) => b.confidence_score - a.confidence_score);
+
+                const dashboard = document.getElementById("dashboard");
+                data.forEach((prop, index) => {
+                    const div = document.createElement("div");
+                    div.className = "prop" + (index < 10 ? " top-prop" : "");
+
+                    div.innerHTML = `
+                        <div class="player-name">${prop.playerName} (${prop.team}) – ${prop.position || "N/A"}</div>
+                        <div><strong>Player ID:</strong> ${prop.playerID}</div>
+                        <p><strong>Hits:</strong> 1+ ${prop.hits_one || "N/A"}, 2+ ${prop.hits_two || "N/A"}</p>
+                        <p><strong>Total Bases:</strong> ${prop.bases_total || "?"} – Over ${prop.bases_over || "N/A"}, Under ${prop.bases_under || "N/A"}</p>
+                        <p><strong>Runs:</strong> ${prop.runs_total || "?"} – Over ${prop.runs_over || "N/A"}, Under ${prop.runs_under || "N/A"}</p>
+                        <p><strong>Confidence Score:</strong> ${prop.confidence_score.toFixed(1)}%</p>
+                    `;
+                    dashboard.appendChild(div);
+                });
+            });
+    </script>
+</body>
+</html>
